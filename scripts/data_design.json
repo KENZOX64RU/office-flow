@@ -1,0 +1,548 @@
+{
+  "shortcuts": [
+    {
+      "id": "acr-read-mode",
+      "appId": "acrobat-reader",
+      "title": "Режим чтения (Read Mode) со скрытием всех панелей",
+      "description": "Убирает все боковые панели и меню, оставляя только чистый документ для максимальной фокусировки",
+      "keys": ["Ctrl", "H"],
+      "category": "Режимы просмотра",
+      "popularity": 96
+    },
+    {
+      "id": "acr-fullscreen",
+      "appId": "acrobat-reader",
+      "title": "Полноэкранный режим презентации документа",
+      "description": "Разворачивает PDF на весь монитор для доклада или совещания",
+      "keys": ["Ctrl", "L"],
+      "category": "Режимы просмотра",
+      "popularity": 94
+    },
+    {
+      "id": "acr-fit-page",
+      "appId": "acrobat-reader",
+      "title": "Масштаб: подогнать страницу под окно целиком",
+      "description": "Масштабирует документ так, чтобы лист был виден от верхнего до нижнего края",
+      "keys": ["Ctrl", "0"],
+      "category": "Масштабирование",
+      "popularity": 97
+    },
+    {
+      "id": "acr-fit-width",
+      "appId": "acrobat-reader",
+      "title": "Масштаб: по ширине экрана",
+      "description": "Оптимальный режим для комфортного чтения мелкого шрифта документов",
+      "keys": ["Ctrl", "2"],
+      "category": "Масштабирование",
+      "popularity": 95
+    },
+    {
+      "id": "acr-rotate-cw",
+      "appId": "acrobat-reader",
+      "title": "Повернуть страницу по часовой стрелке на 90°",
+      "description": "Быстро переворачивает перевернутые при сканировании страницы",
+      "keys": ["Ctrl", "Shift", "Plus"],
+      "category": "Ориентация страниц",
+      "popularity": 93
+    },
+    {
+      "id": "pro-ocr-text",
+      "appId": "acrobat-pro",
+      "title": "Оптическое распознавание текста (OCR)",
+      "description": "Превращает сканированный PDF-документ в документ с возможностью поиска и копирования текста",
+      "keys": ["Ctrl", "Shift", "T"],
+      "category": "Инструменты Pro",
+      "popularity": 98
+    },
+    {
+      "id": "pro-delete-pages",
+      "appId": "acrobat-pro",
+      "title": "Удалить выбранные страницы из PDF-файла",
+      "description": "Открывает окно удаления лишних или пустых страниц из состава документа",
+      "keys": ["Ctrl", "Shift", "D"],
+      "category": "Управление страницами",
+      "popularity": 95
+    },
+    {
+      "id": "pro-insert-pages",
+      "appId": "acrobat-pro",
+      "title": "Вставить страницы из другого PDF-документа",
+      "description": "Объединение нескольких файлов или добавление приложений к договору",
+      "keys": ["Ctrl", "Shift", "I"],
+      "category": "Управление страницами",
+      "popularity": 96
+    },
+    {
+      "id": "pro-redact",
+      "appId": "acrobat-pro",
+      "title": "Инструмент цензурирования и удаления персональных данных (Redact)",
+      "description": "Безвозвратно закрашивает черным цветом конфиденциальные данные, паспорта и суммы",
+      "keys": ["Ctrl", "Shift", "Y"],
+      "category": "Безопасность и конфиденциальность",
+      "popularity": 94
+    },
+    {
+      "id": "pro-extract-pages",
+      "appId": "acrobat-pro",
+      "title": "Извлечь страницы в отдельный файл",
+      "description": "Сохраняет выбранный диапазон страниц как самостоятельный новый PDF",
+      "keys": ["Ctrl", "Shift", "X"],
+      "category": "Управление страницами",
+      "popularity": 92
+    },
+    {
+      "id": "px-rotate",
+      "appId": "pdf-xchange",
+      "title": "Поворот текущей или выделенных страниц",
+      "description": "Диалог точного поворота четных, нечетных или выбранных страниц документа",
+      "keys": ["Ctrl", "Shift", "R"],
+      "category": "Страницы",
+      "popularity": 95
+    },
+    {
+      "id": "px-ocr",
+      "appId": "pdf-xchange",
+      "title": "Запуск модуля распознавания текста OCR",
+      "description": "Интегрированный движок распознавания русского и английского языков",
+      "keys": ["Ctrl", "Shift", "O"],
+      "category": "Инструменты OCR",
+      "popularity": 96
+    },
+    {
+      "id": "px-export-images",
+      "appId": "pdf-xchange",
+      "title": "Экспорт страниц PDF в растровые изображения (PNG, JPEG)",
+      "description": "Пакетное преобразование страниц в графические форматы высокого разрешения",
+      "keys": ["Ctrl", "Shift", "E"],
+      "category": "Экспорт",
+      "popularity": 91
+    },
+    {
+      "id": "px-bookmark",
+      "appId": "pdf-xchange",
+      "title": "Добавить закладку на текущую страницу",
+      "description": "Формирует интерактивное дерево содержания документа",
+      "keys": ["Ctrl", "Alt", "B"],
+      "category": "Навигация и закладки",
+      "popularity": 89
+    },
+    {
+      "id": "px-delete-pages",
+      "appId": "pdf-xchange",
+      "title": "Удаление страниц документа",
+      "description": "Быстрое удаление ненужных страниц из открытого файла",
+      "keys": ["Ctrl", "Shift", "D"],
+      "category": "Страницы",
+      "popularity": 92
+    },
+    {
+      "id": "foxit-rotate",
+      "appId": "foxit",
+      "title": "Повернуть страницу на 90 градусов",
+      "description": "Исправляет альбомную или портретную ориентацию отсканированного листа",
+      "keys": ["Ctrl", "Shift", "R"],
+      "category": "Страницы",
+      "popularity": 95
+    },
+    {
+      "id": "foxit-ocr",
+      "appId": "foxit",
+      "title": "Оптическое распознавание текста (OCR)",
+      "description": "Преобразует изображение страницы в распознанный текст",
+      "keys": ["Ctrl", "Shift", "O"],
+      "category": "Инструменты распознавания",
+      "popularity": 96
+    },
+    {
+      "id": "foxit-split",
+      "appId": "foxit",
+      "title": "Разделить документ на несколько файлов",
+      "description": "Разбивает многостраничный архив документов на отдельные файлы по числу страниц или закладкам",
+      "keys": ["Ctrl", "Alt", "S"],
+      "category": "Управление документами",
+      "popularity": 91
+    },
+    {
+      "id": "foxit-insert",
+      "appId": "foxit",
+      "title": "Вставить страницы из файла",
+      "description": "Добавление приложений или дополнительных листов в текущий файл",
+      "keys": ["Ctrl", "Shift", "I"],
+      "category": "Страницы",
+      "popularity": 93
+    },
+    {
+      "id": "fine-recognize-page",
+      "appId": "finereader",
+      "title": "Распознать текущую страницу",
+      "description": "Запуск анализа структуры блоков (текст, таблицы, картинки) для активного листа",
+      "keys": ["Ctrl", "Shift", "R"],
+      "category": "Распознавание",
+      "popularity": 98
+    },
+    {
+      "id": "fine-recognize-all",
+      "appId": "finereader",
+      "title": "Распознать весь документ целиком",
+      "description": "Пакетная обработка всех страниц с сохранением исходной верстки",
+      "keys": ["Ctrl", "Shift", "F"],
+      "category": "Распознавание",
+      "popularity": 99
+    },
+    {
+      "id": "fine-export-word",
+      "appId": "finereader",
+      "title": "Сохранить распознанный текст в Microsoft Word (.docx)",
+      "description": "Экспорт отсканированного документа в редактируемый файл Word с точным сохранением шрифтов и таблиц",
+      "keys": ["Ctrl", "Shift", "S"],
+      "category": "Экспорт и сохранение",
+      "popularity": 97
+    },
+    {
+      "id": "fine-export-excel",
+      "appId": "finereader",
+      "title": "Экспорт таблиц в Microsoft Excel (.xlsx)",
+      "description": "Извлечение отсканированных таблиц в формат Excel для последующего пересчета формулами",
+      "keys": ["Ctrl", "Shift", "X"],
+      "category": "Экспорт и сохранение",
+      "popularity": 96
+    },
+    {
+      "id": "fine-compare-docs",
+      "appId": "finereader",
+      "title": "Запустить модуль сравнения двух документов",
+      "description": "Автоматически находит различия в тексте договоров в разных форматах (скан против docx)",
+      "keys": ["Ctrl", "Alt", "C"],
+      "category": "Сравнение документов",
+      "popularity": 94
+    },
+    {
+      "id": "pbi-open-powerquery",
+      "appId": "powerbi",
+      "title": "Открыть редактор запросов Power Query",
+      "description": "Переход к модулю очистки, фильтрации и преобразования данных",
+      "keys": ["Ctrl", "Shift", "D"],
+      "category": "Моделирование данных",
+      "popularity": 98
+    },
+    {
+      "id": "pbi-focus-mode",
+      "appId": "powerbi",
+      "title": "Режим фокусировки на выбранном визуале",
+      "description": "Разворачивает диаграмму или матрицу на весь экран для детального исследования данных",
+      "keys": ["Ctrl", "Shift", "F"],
+      "category": "Визуализация",
+      "popularity": 95
+    },
+    {
+      "id": "pbi-confirm-dax",
+      "appId": "powerbi",
+      "title": "Применить формулу меры DAX",
+      "description": "Подтверждает и компилирует расчетную меру в строке формул",
+      "keys": ["Ctrl", "Enter"],
+      "category": "Формулы DAX",
+      "popularity": 97
+    },
+    {
+      "id": "pbi-shortcuts-help",
+      "appId": "powerbi",
+      "title": "Справочник всех горячих клавиш Power BI Desktop",
+      "description": "Открывает официальную памятку по клавиатурным командам",
+      "keys": ["Shift", "?"],
+      "category": "Справка",
+      "popularity": 90
+    },
+    {
+      "id": "tab-new-sheet",
+      "appId": "tableau",
+      "title": "Создать новый рабочий лист (Worksheet)",
+      "description": "Добавляет чистый лист визуализации данных",
+      "keys": ["Ctrl", "M"],
+      "category": "Рабочие листы",
+      "popularity": 96
+    },
+    {
+      "id": "tab-new-dashboard",
+      "appId": "tableau",
+      "title": "Создать новый дашборд (Dashboard)",
+      "description": "Открывает холст компоновки интерактивных графиков и фильтров",
+      "keys": ["Ctrl", "Shift", "M"],
+      "category": "Дашборды",
+      "popularity": 95
+    },
+    {
+      "id": "tab-swap-rows-cols",
+      "appId": "tableau",
+      "title": "Поменять местами строки и столбцы (Swap Rows & Columns)",
+      "description": "Мгновенно меняет ориентацию диаграммы (например, вертикальные столбцы на горизонтальные полосы)",
+      "keys": ["Ctrl", "W"],
+      "category": "Визуализация",
+      "popularity": 98
+    },
+    {
+      "id": "tab-refresh-data",
+      "appId": "tableau",
+      "title": "Обновить источник данных (Refresh Data Source)",
+      "description": "Подтягивает свежие записи из SQL-базы или файла Excel",
+      "keys": ["F9"],
+      "category": "Данные",
+      "popularity": 93
+    },
+    {
+      "id": "pq-close-apply",
+      "appId": "powerquery",
+      "title": "Применить изменения и загрузить данные (Close & Apply)",
+      "description": "Сохраняет цепочку шагов ETL и загружает результат в модель данных",
+      "keys": ["Alt", "Shift", "Enter"],
+      "category": "ETL процессы",
+      "popularity": 99
+    },
+    {
+      "id": "pq-autocomplete-m",
+      "appId": "powerquery",
+      "title": "Автодополнение функций языка M в строке формул",
+      "description": "Всплывающие подсказки по синтаксису и аргументам функций преобразования",
+      "keys": ["Ctrl", "Space"],
+      "category": "Формулы языка M",
+      "popularity": 96
+    },
+    {
+      "id": "pq-rename-step",
+      "appId": "powerquery",
+      "title": "Переименовать выбранный шаг трансформации",
+      "description": "Присваивает осмысленное название шагу в панели «Примененные шаги»",
+      "keys": ["F2"],
+      "category": "Шаги трансформации",
+      "popularity": 94
+    },
+    {
+      "id": "pq-delete-step",
+      "appId": "powerquery",
+      "title": "Удалить выбранный шаг трансформации",
+      "description": "Откатывает конкретную операцию фильтрации или изменения типа данных",
+      "keys": ["Delete"],
+      "category": "Шаги трансформации",
+      "popularity": 92
+    },
+    {
+      "id": "pp-manage-model",
+      "appId": "powerpivot",
+      "title": "Открыть окно управления реляционной моделью данных Power Pivot",
+      "description": "Переход к диаграмме связей (Diagram View) между таблицами фактов и измерений",
+      "keys": ["Ctrl", "F2"],
+      "category": "Модель данных",
+      "popularity": 98
+    },
+    {
+      "id": "pp-confirm-measure",
+      "appId": "powerpivot",
+      "title": "Подтвердить расчетную меру DAX",
+      "description": "Компилирует меру в области вычислений",
+      "keys": ["Ctrl", "Enter"],
+      "category": "Меры DAX",
+      "popularity": 96
+    },
+    {
+      "id": "pp-new-calc-column",
+      "appId": "powerpivot",
+      "title": "Создать вычисляемый столбец",
+      "description": "Добавляет столбец с расчетом по формуле на уровне строк",
+      "keys": ["Ctrl", "T"],
+      "category": "Модель данных",
+      "popularity": 92
+    },
+    {
+      "id": "figma-auto-layout",
+      "appId": "figma",
+      "title": "Добавить Автолейаут (Auto Layout)",
+      "description": "Делает фрейм адаптивным: элементы автоматически перестраиваются при изменении контента",
+      "keys": ["Shift", "A"],
+      "category": "Сетка и верстка",
+      "popularity": 99
+    },
+    {
+      "id": "figma-create-component",
+      "appId": "figma",
+      "title": "Создать переиспользуемый мастер-компонент",
+      "description": "Превращает выделенный элемент интерфейса в компонент дизайн-системы",
+      "keys": {
+        "windows": ["Ctrl", "Alt", "K"],
+        "macos": ["Cmd", "Opt", "K"]
+      },
+      "category": "Компоненты",
+      "popularity": 98
+    },
+    {
+      "id": "figma-detach-instance",
+      "appId": "figma",
+      "title": "Отсоединить экземпляр от компонента (Detach Instance)",
+      "description": "Разрывает связь с мастер-компонентом для свободного редактирования структуры",
+      "keys": {
+        "windows": ["Ctrl", "Alt", "B"],
+        "macos": ["Cmd", "Opt", "B"]
+      },
+      "category": "Компоненты",
+      "popularity": 95
+    },
+    {
+      "id": "figma-swap-fill-stroke",
+      "appId": "figma",
+      "title": "Поменять местами заливку (Fill) и обводку (Stroke)",
+      "description": "Мгновенное переключение между контурным и сплошным отображением фигуры или иконки",
+      "keys": ["Shift", "X"],
+      "category": "Стили и цвета",
+      "popularity": 94
+    },
+    {
+      "id": "ps-duplicate-layer",
+      "appId": "photoshop",
+      "title": "Дублировать текущий слой или выделение",
+      "description": "Создает копию активного слоя без вызова контекстных меню",
+      "keys": {
+        "windows": ["Ctrl", "J"],
+        "macos": ["Cmd", "J"]
+      },
+      "category": "Слои",
+      "popularity": 99
+    },
+    {
+      "id": "ps-free-transform",
+      "appId": "photoshop",
+      "title": "Свободное трансформирование объекта (Free Transform)",
+      "description": "Включает рамку масштабирования, поворота и искажения перспективы слоя",
+      "keys": {
+        "windows": ["Ctrl", "T"],
+        "macos": ["Cmd", "T"]
+      },
+      "category": "Трансформация",
+      "popularity": 99
+    },
+    {
+      "id": "ps-stamp-visible",
+      "appId": "photoshop",
+      "title": "Создать объединенный слепок всех видимых слоев (Stamp Visible)",
+      "description": "Создает новый объединенный слой поверх текущих, сохраняя все исходные слои нетронутыми",
+      "keys": {
+        "windows": ["Ctrl", "Shift", "Alt", "E"],
+        "macos": ["Cmd", "Shift", "Opt", "E"]
+      },
+      "category": "Слои",
+      "popularity": 97
+    },
+    {
+      "id": "ps-invert-selection",
+      "appId": "photoshop",
+      "title": "Инвертировать выделенную область",
+      "description": "Меняет выделение местами: выделяет всё кроме текущего объекта",
+      "keys": {
+        "windows": ["Ctrl", "Shift", "I"],
+        "macos": ["Cmd", "Shift", "I"]
+      },
+      "category": "Выделение",
+      "popularity": 96
+    },
+    {
+      "id": "ai-create-outlines",
+      "appId": "illustrator",
+      "title": "Преобразовать текст в кривые (Create Outlines)",
+      "description": "Переводит шрифтовые надписи в векторные контуры для отправки в типографию без шрифтовых сбоев",
+      "keys": {
+        "windows": ["Ctrl", "Shift", "O"],
+        "macos": ["Cmd", "Shift", "O"]
+      },
+      "category": "Типографика",
+      "popularity": 99
+    },
+    {
+      "id": "ai-clipping-mask",
+      "appId": "illustrator",
+      "title": "Создать обтравочную маску (Clipping Mask)",
+      "description": "Обрезает нижележащие векторные объекты или фото по форме верхнего контура",
+      "keys": {
+        "windows": ["Ctrl", "7"],
+        "macos": ["Cmd", "7"]
+      },
+      "category": "Маски и слои",
+      "popularity": 97
+    },
+    {
+      "id": "ai-shape-builder",
+      "appId": "illustrator",
+      "title": "Инструмент создания фигур (Shape Builder Tool)",
+      "description": "Быстрое объединение и вычитание пересекающихся векторных контуров курсором",
+      "keys": ["Shift", "M"],
+      "category": "Инструменты векторной графики",
+      "popularity": 98
+    },
+    {
+      "id": "ai-outline-view",
+      "appId": "illustrator",
+      "title": "Режим контуров (Outline View)",
+      "description": "Отображает каркас векторных линий без заливок и эффектов для проверки точности стыковки",
+      "keys": {
+        "windows": ["Ctrl", "Y"],
+        "macos": ["Cmd", "Y"]
+      },
+      "category": "Режимы просмотра",
+      "popularity": 95
+    }
+  ],
+  "tasks": [
+    {
+      "id": "pro-task-redact-gdpr",
+      "appId": "acrobat-pro",
+      "title": "Удаление персональных данных и реквизитов из договора перед публикацией",
+      "summary": "Как гарантированно удалить паспортные данные, телефоны и подписи без возможности их извлечения из PDF.",
+      "category": "Безопасность и конфиденциальность",
+      "difficulty": "Средняя",
+      "estimatedTime": "3 минуты",
+      "whenToUse": "Перед публикацией тендерной документации, кейсов или отправкой договоров третьим лицам.",
+      "expectedResult": "Сформированная публичная копия PDF, где закрытые данные физически вырезаны из структуры файла.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Активируйте инструмент «Цензурирование»",
+          "description": "В панели инструментов справа выберите «Защита» -> «Цензурировать» (Redact)."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Пометьте конфиденциальные блоки",
+          "description": "Выделите прямоугольником текст с паспортными данными, подписями или номерами счетов."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Примените цензурирование",
+          "description": "Нажмите «Применить» (Apply). Acrobat безвозвратно удалит пиксели и текст из бинарного тела файла и предложит очистить скрытые метаданные."
+        }
+      ]
+    },
+    {
+      "id": "figma-task-auto-layout-button",
+      "appId": "figma",
+      "title": "Создание адаптивной кнопки с Auto Layout и настраиваемыми отступами",
+      "summary": "Проектирование идеальной кнопки интерфейса, которая автоматически меняет ширину под длину текста.",
+      "category": "UI дизайн и компоненты",
+      "difficulty": "Начальная",
+      "estimatedTime": "2 минуты",
+      "whenToUse": "При сборке дизайн-системы или прототипировании мобильных и веб-интерфейсов.",
+      "expectedResult": "Умная кнопка с фиксированными паддингами (Padding) и автоподстройкой под локализацию.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Напишите текст кнопки",
+          "description": "Нажмите клавишу T и введите текст, например «Оформить заказ»."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Оберните в Auto Layout",
+          "description": "Выделите текстовый слой и нажмите Shift+A. Текст автоматически поместится внутрь адаптивного фрейма."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Настройте отступы и цвет",
+          "description": "В правой панели задайте горизонтальные отступы 24px, вертикальные 12px, скругление углов 8px и добавьте Fill (заливку)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "shortcuts": [
+    {
+      "id": "w11-snap-layouts",
+      "appId": "win11",
+      "title": "Макеты привязки окон Snap Layouts",
+      "description": "Открывает меню расположения окон на экране: две колонки, три колонки или сетка 2x2",
+      "keys": ["Win", "Z"],
+      "category": "Управление окнами",
+      "popularity": 98
+    },
+    {
+      "id": "w11-quick-settings",
+      "appId": "win11",
+      "title": "Панель быстрых настроек (Quick Settings)",
+      "description": "Управление громкостью, яркостью, Wi-Fi сетями и Bluetooth",
+      "keys": ["Win", "A"],
+      "category": "Система и доступ",
+      "popularity": 96
+    },
+    {
+      "id": "w11-notifications",
+      "appId": "win11",
+      "title": "Центр уведомлений и календарь",
+      "description": "Показывает непрочитанные уведомления от программ и календарную сетку",
+      "keys": ["Win", "N"],
+      "category": "Система и доступ",
+      "popularity": 94
+    },
+    {
+      "id": "w11-new-desktop",
+      "appId": "win11",
+      "title": "Создать новый виртуальный рабочий стол",
+      "description": "Разделяет рабочие задачи и личные дела по изолированным рабочим столам",
+      "keys": ["Win", "Ctrl", "D"],
+      "category": "Виртуальные столы",
+      "popularity": 95
+    },
+    {
+      "id": "w11-switch-desktop",
+      "appId": "win11",
+      "title": "Переключение между виртуальными рабочими столами",
+      "description": "Быстрый переход влево или вправо между созданными пространствами",
+      "keys": ["Win", "Ctrl", "Left / Right"],
+      "category": "Виртуальные столы",
+      "popularity": 96
+    },
+    {
+      "id": "w11-close-desktop",
+      "appId": "win11",
+      "title": "Закрыть текущий виртуальный рабочий стол",
+      "description": "Все открытые окна перемещаются на соседний рабочий стол",
+      "keys": ["Win", "Ctrl", "F4"],
+      "category": "Виртуальные столы",
+      "popularity": 91
+    },
+    {
+      "id": "w10-task-view",
+      "appId": "win10",
+      "title": "Представление задач (Task View)",
+      "description": "Показывает миниатюры всех запущенных приложений и виртуальные столы",
+      "keys": ["Win", "Tab"],
+      "category": "Навигация и многозадачность",
+      "popularity": 97
+    },
+    {
+      "id": "w10-snap-left-right",
+      "appId": "win10",
+      "title": "Привязка активного окна к левой или правой половине экрана",
+      "description": "Позволяет быстро разделить монитор пополам для параллельной работы в двух программах",
+      "keys": ["Win", "Left / Right"],
+      "category": "Управление окнами",
+      "popularity": 98
+    },
+    {
+      "id": "w10-minimize-all",
+      "appId": "win10",
+      "title": "Свернуть все открытые окна (Показать рабочий стол)",
+      "description": "Мгновенно очищает обзор экрана",
+      "keys": ["Win", "D"],
+      "category": "Управление окнами",
+      "popularity": 99
+    },
+    {
+      "id": "w10-power-user-menu",
+      "appId": "win10",
+      "title": "Меню опытного пользователя (Power User Menu)",
+      "description": "Быстрый переход к Управлению дисками, Диспетчеру устройств, PowerShell и Сети",
+      "keys": ["Win", "X"],
+      "category": "Администрирование",
+      "popularity": 98
+    },
+    {
+      "id": "w10-settings",
+      "appId": "win10",
+      "title": "Открыть параметры Windows",
+      "description": "Переход к настройкам учетных записей, обновлений, дисплея и приложений",
+      "keys": ["Win", "I"],
+      "category": "Параметры системы",
+      "popularity": 96
+    },
+    {
+      "id": "exp-new-folder",
+      "appId": "explorer",
+      "title": "Создать новую папку",
+      "description": "Создает каталог «Новая папка» в текущей директории с готовым полем переименования",
+      "keys": ["Ctrl", "Shift", "N"],
+      "category": "Файловые операции",
+      "popularity": 99
+    },
+    {
+      "id": "exp-rename",
+      "appId": "explorer",
+      "title": "Переименовать выбранный файл или папку",
+      "description": "Переводит имя файла в режим редактирования без изменения расширения",
+      "keys": ["F2"],
+      "category": "Файловые операции",
+      "popularity": 99
+    },
+    {
+      "id": "exp-properties",
+      "appId": "explorer",
+      "title": "Свойства файла или папки",
+      "description": "Показывает точный размер, атрибуты, права доступа и дату изменения",
+      "keys": ["Alt", "Enter"],
+      "category": "Свойства файлов",
+      "popularity": 96
+    },
+    {
+      "id": "exp-up-folder",
+      "appId": "explorer",
+      "title": "Подняться на один уровень папок вверх",
+      "description": "Переход в родительскую директорию",
+      "keys": ["Alt", "Up"],
+      "category": "Навигация",
+      "popularity": 97
+    },
+    {
+      "id": "exp-address-bar",
+      "appId": "explorer",
+      "title": "Фокус на адресной строке Проводника",
+      "description": "Позволяет скопировать полный путь к папке или ввести прямой путь",
+      "keys": ["F4"],
+      "category": "Навигация",
+      "popularity": 94
+    },
+    {
+      "id": "exp-preview-pane",
+      "appId": "explorer",
+      "title": "Панель предварительного просмотра файлов (Preview Pane)",
+      "description": "Показывает содержимое PDF, Word, Excel и картинок справа без запуска программ",
+      "keys": ["Alt", "P"],
+      "category": "Интерфейс",
+      "popularity": 95
+    },
+    {
+      "id": "exp-permanent-delete",
+      "appId": "explorer",
+      "title": "Удалить файл навсегда (минуя Корзину)",
+      "description": "Окончательное удаление без заполнения корзины",
+      "keys": ["Shift", "Delete"],
+      "category": "Файловые операции",
+      "popularity": 95
+    },
+    {
+      "id": "tm-launch-task",
+      "appId": "taskmgr",
+      "title": "Запустить новую задачу (Диалог создания процесса)",
+      "description": "Позволяет запустить explorer.exe, cmd или powershell с правами администратора",
+      "keys": ["Alt", "N"],
+      "category": "Процессы",
+      "popularity": 96
+    },
+    {
+      "id": "tm-end-process",
+      "appId": "taskmgr",
+      "title": "Завершить выбранный зависший процесс",
+      "description": "Принудительно снимает зависшее приложение (End Task)",
+      "keys": ["Delete"],
+      "category": "Процессы",
+      "popularity": 98
+    },
+    {
+      "id": "tm-refresh-metrics",
+      "appId": "taskmgr",
+      "title": "Принудительно обновить метрики CPU, RAM и диска",
+      "description": "Мгновенно обновляет показания загрузки ресурсов в реальном времени",
+      "keys": ["F5"],
+      "category": "Мониторинг",
+      "popularity": 92
+    },
+    {
+      "id": "ps-reverse-search",
+      "appId": "powershell",
+      "title": "Интерактивный реверсивный поиск по истории команд (PSReadLine)",
+      "description": "Позволяет найти сложную команду по части текста (например, Get-ADUser или docker)",
+      "keys": ["Ctrl", "R"],
+      "category": "История и поиск",
+      "popularity": 99
+    },
+    {
+      "id": "ps-param-menu",
+      "appId": "powershell",
+      "title": "Интерактивное меню параметров командлета (MenuComplete)",
+      "description": "Отображает список всех доступных параметров с возможностью выбора стрелками",
+      "keys": ["Ctrl", "Space"],
+      "category": "Автодополнение",
+      "popularity": 97
+    },
+    {
+      "id": "ps-clear-screen",
+      "appId": "powershell",
+      "title": "Очистить экран консоли",
+      "description": "Сбрасывает вывод предыдущих команд без потери истории сессии",
+      "keys": ["Ctrl", "L"],
+      "category": "Консоль",
+      "popularity": 96
+    },
+    {
+      "id": "ps-abort-script",
+      "appId": "powershell",
+      "title": "Прервать выполнение текущей команды или скрипта",
+      "description": "Останавливает бесконечный цикл или длительный опрос сети",
+      "keys": ["Ctrl", "C"],
+      "category": "Управление выполнением",
+      "popularity": 99
+    },
+    {
+      "id": "cmd-history-window",
+      "appId": "cmd",
+      "title": "Окно истории выполненных команд с выбором по номеру",
+      "description": "Всплывающий графический список всех ранее введенных инструкций",
+      "keys": ["F7"],
+      "category": "История команд",
+      "popularity": 97
+    },
+    {
+      "id": "cmd-repeat-last",
+      "appId": "cmd",
+      "title": "Повторить последнюю введенную команду",
+      "description": "Мгновенно подставляет предыдущую строку",
+      "keys": ["F3"],
+      "category": "История команд",
+      "popularity": 96
+    },
+    {
+      "id": "cmd-clear-line",
+      "appId": "cmd",
+      "title": "Очистить текущую строку ввода",
+      "description": "Сбрасывает ошибочно набранную строку",
+      "keys": ["Esc"],
+      "category": "Редактирование",
+      "popularity": 94
+    },
+    {
+      "id": "wt-split-pane-h",
+      "appId": "winterminal",
+      "title": "Разделить текущую панель по горизонтали (Split Pane)",
+      "description": "Создает вторую консоль рядом в том же окне",
+      "keys": ["Alt", "Shift", "D"],
+      "category": "Панели и вкладки",
+      "popularity": 98
+    },
+    {
+      "id": "wt-split-pane-v",
+      "appId": "winterminal",
+      "title": "Разделить текущую панель по вертикали",
+      "description": "Создает дополнительную консоль снизу",
+      "keys": ["Alt", "Shift", "+"],
+      "category": "Панели и вкладки",
+      "popularity": 97
+    },
+    {
+      "id": "wt-command-palette",
+      "appId": "winterminal",
+      "title": "Палитра команд Terminal Command Palette",
+      "description": "Поиск и запуск любых действий терминала по названию",
+      "keys": ["Ctrl", "Shift", "P"],
+      "category": "Управление",
+      "popularity": 96
+    },
+    {
+      "id": "wt-new-tab-profile",
+      "appId": "winterminal",
+      "title": "Открыть вкладку профиля по номеру",
+      "description": "Быстрый запуск PowerShell (1), CMD (2) или WSL Ubuntu (3)",
+      "keys": ["Ctrl", "Shift", "1...9"],
+      "category": "Панели и вкладки",
+      "popularity": 95
+    },
+    {
+      "id": "putty-suspend",
+      "appId": "putty",
+      "title": "Приостановить процесс и отправить в фон (SIGTSTP)",
+      "description": "Возвращает шелл на удаленном сервере без закрытия программы (разбудить командой fg)",
+      "keys": ["Ctrl", "Z"],
+      "category": "Управление сессией",
+      "popularity": 95
+    },
+    {
+      "id": "putty-end-session",
+      "appId": "putty",
+      "title": "Завершить сессию терминала (EOF / Logout)",
+      "description": "Корректно закрывает SSH-подключение к серверу",
+      "keys": ["Ctrl", "D"],
+      "category": "Управление сессией",
+      "popularity": 97
+    },
+    {
+      "id": "putty-line-start-end",
+      "appId": "putty",
+      "title": "Переход в начало / конец строки на сервере",
+      "description": "Мгновенное перемещение курсора в командной строке Linux",
+      "keys": ["Ctrl", "A / Ctrl", "E"],
+      "category": "Навигация в шелле",
+      "popularity": 96
+    },
+    {
+      "id": "wscp-sync-dirs",
+      "appId": "winscp",
+      "title": "Открыть окно синхронизации директорий",
+      "description": "Автоматически сравнивает файлы по дате и размеру и копирует только изменения",
+      "keys": ["Ctrl", "U"],
+      "category": "Синхронизация",
+      "popularity": 97
+    },
+    {
+      "id": "wscp-edit-file",
+      "appId": "winscp",
+      "title": "Редактировать удаленный файл конфигурации (nginx, conf, php)",
+      "description": "Открывает файл во встроенном или настроенном внешнем редакторе (VS Code / Notepad++)",
+      "keys": ["F4"],
+      "category": "Работа с файлами",
+      "popularity": 98
+    },
+    {
+      "id": "wscp-open-terminal",
+      "appId": "winscp",
+      "title": "Открыть SSH-терминал в текущем каталоге",
+      "description": "Запускает связанную консоль PuTTY прямо в открытой папке сервера",
+      "keys": ["Ctrl", "T"],
+      "category": "Инструменты",
+      "popularity": 94
+    },
+    {
+      "id": "rdp-toggle-fullscreen",
+      "appId": "rdp",
+      "title": "Переключить полноэкранный / оконный режим сессии",
+      "description": "Позволяет освободить локальную панель задач без отключения от удаленного сервера",
+      "keys": ["Ctrl", "Alt", "Break"],
+      "category": "Управление окном сессии",
+      "popularity": 98
+    },
+    {
+      "id": "rdp-security-screen",
+      "appId": "rdp",
+      "title": "Окно безопасности Windows на удаленном сервере",
+      "description": "Эквивалент Ctrl+Alt+Del для удаленного ПК (смена пароля, блокировка, диспетчер задач)",
+      "keys": ["Ctrl", "Alt", "End"],
+      "category": "Безопасность сессии",
+      "popularity": 99
+    },
+    {
+      "id": "rdp-cycle-apps",
+      "appId": "rdp",
+      "title": "Переключение между приложениями на удаленном рабочем столе",
+      "description": "Эквивалент Alt+Tab внутри удаленной сессии",
+      "keys": ["Alt", "PageUp / PageDown"],
+      "category": "Навигация в сессии",
+      "popularity": 96
+    },
+    {
+      "id": "sys-find-handle",
+      "appId": "sysinternals",
+      "title": "Найти дескриптор или процесс, блокирующий удаление файла",
+      "description": "Поиск по имени файла или DLL в Process Explorer (решает проблему «Файл заблокирован»)",
+      "keys": ["Ctrl", "F"],
+      "category": "Process Explorer",
+      "popularity": 99
+    },
+    {
+      "id": "sys-freeze-refresh",
+      "appId": "sysinternals",
+      "title": "Поставить обновление процессов на паузу",
+      "description": "Замораживает список в Process Explorer, чтобы успеть кликнуть по кратковременному процессу",
+      "keys": ["Пробел"],
+      "category": "Process Explorer",
+      "popularity": 96
+    },
+    {
+      "id": "sys-capture-events",
+      "appId": "sysinternals",
+      "title": "Старт / пауза захвата событий файловой системы и реестра (ProcMon)",
+      "description": "Управление мониторингом активности приложений в Process Monitor",
+      "keys": ["Ctrl", "E"],
+      "category": "Process Monitor",
+      "popularity": 97
+    },
+    {
+      "id": "sys-clear-events",
+      "appId": "sysinternals",
+      "title": "Очистить накопленный журнал событий ProcMon",
+      "description": "Сбрасывает миллионы строк лога для экономии оперативной памяти",
+      "keys": ["Ctrl", "X"],
+      "category": "Process Monitor",
+      "popularity": 95
+    }
+  ],
+  "tasks": [
+    {
+      "id": "win-task-power-plan",
+      "appId": "win11",
+      "title": "Настройка схемы максимальной производительности электропитания",
+      "summary": "Как убрать троттлинг процессора и выставить максимальную отдачу системы для ресурсоемких программ.",
+      "category": "Оптимизация и скорость",
+      "difficulty": "Начальная",
+      "estimatedTime": "2 минуты",
+      "whenToUse": "При работе с тяжелыми таблицами Excel, базами данных 1С и рендерингом видео.",
+      "expectedResult": "Windows отдает приоритет тактовой частоте процессора без энергосберегающих пауз.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Откройте диалог «Выполнить»",
+          "description": "Нажмите Win+R и введите powercfg.cpl, затем нажмите Enter."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Выберите схему «Высокая производительность»",
+          "description": "Разверните дополнительные схемы электропитания и активируйте план «Высокая производительность»."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Проверьте параметры режима ожидания",
+          "description": "Убедитесь, что диск и сетевой адаптер не уходят в сон при длительных выгрузках данных."
+        }
+      ]
+    },
+    {
+      "id": "wscp-task-sync-site",
+      "appId": "winscp",
+      "title": "Автоматическая двухсторонняя синхронизация папки сайта через WinSCP",
+      "summary": "Как безопасно загрузить на сервер только измененные файлы за считанные секунды.",
+      "category": "Файловые операции",
+      "difficulty": "Средняя",
+      "estimatedTime": "3 минуты",
+      "whenToUse": "При выкатке правок в веб-проектах без использования тяжелых пайплайнов.",
+      "expectedResult": "Точное соответствие файлов на сервере и локальном компьютере с сохранением резервной копии.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Откройте окно синхронизации",
+          "description": "Подключитесь к серверу по SFTP и нажмите Ctrl+U."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Настройте направление синхронизации",
+          "description": "В выпадающем списке «Направление» выберите «Удаленный каталог (локальный -> удаленный)»."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Запустите предварительный просмотр",
+          "description": "Нажмите «Предварительный просмотр» и убедитесь, что в списке только те файлы, которые вы редактировали."
+        }
+      ]
+    }
+  ]
+}

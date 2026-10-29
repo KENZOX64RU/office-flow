@@ -1,0 +1,428 @@
+{
+  "shortcuts": [
+    {
+      "id": "chr-hard-reload",
+      "appId": "chrome",
+      "title": "Жесткая перезагрузка страницы с очисткой кэша",
+      "description": "Принудительно загружает свежие стили и скрипты сайта минуя локальный кэш браузера",
+      "keys": ["Ctrl", "Shift", "R"],
+      "category": "Инструменты веб-мастера",
+      "popularity": 97
+    },
+    {
+      "id": "chr-device-toolbar",
+      "appId": "chrome",
+      "title": "Режим эмуляции мобильных устройств в DevTools",
+      "description": "Позволяет проверить верстку и адаптивность сайта под iPhone, iPad и Android",
+      "keys": ["Ctrl", "Shift", "M"],
+      "category": "Инструменты веб-мастера",
+      "popularity": 96
+    },
+    {
+      "id": "chr-inspect-element",
+      "appId": "chrome",
+      "title": "Инспектор элементов под курсором",
+      "description": "Мгновенно открывает дерево DOM и стили для выбранного на странице блока",
+      "keys": ["Ctrl", "Shift", "C"],
+      "category": "Инструменты веб-мастера",
+      "popularity": 98
+    },
+    {
+      "id": "chr-clear-browsing-data",
+      "appId": "chrome",
+      "title": "Открыть меню очистки истории, куки и кэша",
+      "description": "Быстрый переход к безопасному удалению временных файлов браузера",
+      "keys": ["Ctrl", "Shift", "Delete"],
+      "category": "Безопасность и приватность",
+      "popularity": 95
+    },
+    {
+      "id": "chr-toggle-bookmarks",
+      "appId": "chrome",
+      "title": "Показать / скрыть панель закладок",
+      "description": "Освобождает вертикальное пространство экрана при чтении сайтов",
+      "keys": ["Ctrl", "Shift", "B"],
+      "category": "Закладки и интерфейс",
+      "popularity": 94
+    },
+    {
+      "id": "edge-read-aloud",
+      "appId": "edge",
+      "title": "Чтение веб-страницы вслух естественным голосом",
+      "description": "Встроенный синтезатор речи озвучивает статьи, отчеты и новости на русском и английском языках",
+      "keys": ["Ctrl", "Shift", "U"],
+      "category": "Удобство чтения",
+      "popularity": 96
+    },
+    {
+      "id": "edge-web-capture",
+      "appId": "edge",
+      "title": "Снимок всей веб-страницы с автопрокруткой",
+      "description": "Делает скриншот длинных страниц и дашбордов целиком с возможностью рисования заметок",
+      "keys": ["Ctrl", "Shift", "S"],
+      "category": "Инструменты работы с контентом",
+      "popularity": 97
+    },
+    {
+      "id": "edge-vertical-tabs",
+      "appId": "edge",
+      "title": "Включить / отключить вертикальные вкладки",
+      "description": "Переносит вкладки в удобный древовидный левый столбец, отлично подходящий для широких мониторов",
+      "keys": ["Ctrl", "Shift", ","],
+      "category": "Вкладки и организация",
+      "popularity": 95
+    },
+    {
+      "id": "edge-favorites-hub",
+      "appId": "edge",
+      "title": "Открыть всплывающее меню Избранного",
+      "description": "Быстрый доступ к сохраненным ссылкам без отображения постоянной полосы",
+      "keys": ["Ctrl", "Shift", "O"],
+      "category": "Закладки",
+      "popularity": 91
+    },
+    {
+      "id": "edge-inprivate",
+      "appId": "edge",
+      "title": "Новое окно в режиме InPrivate",
+      "description": "Сессия без сохранения истории просмотров, cookies и данных автозаполнения",
+      "keys": ["Ctrl", "Shift", "N"],
+      "category": "Приватность",
+      "popularity": 94
+    },
+    {
+      "id": "ff-private-window",
+      "appId": "firefox",
+      "title": "Новое приватное окно со строгой защитой от трекеров",
+      "description": "Блокирует трекеры социальных сетей, аналитику и не сохраняет историю",
+      "keys": ["Ctrl", "Shift", "P"],
+      "category": "Приватность и безопасность",
+      "popularity": 97
+    },
+    {
+      "id": "ff-library-bookmarks",
+      "appId": "firefox",
+      "title": "Библиотека управления закладками",
+      "description": "Полноценный диспетчер с тегами, папками и экспортом в HTML",
+      "keys": ["Ctrl", "Shift", "O"],
+      "category": "Закладки",
+      "popularity": 93
+    },
+    {
+      "id": "ff-downloads",
+      "appId": "firefox",
+      "title": "Открыть список загрузок файлов",
+      "description": "Показывает прогресс скачивания и открывает папку с файлом",
+      "keys": ["Ctrl", "Shift", "Y"],
+      "category": "Файлы и загрузки",
+      "popularity": 91
+    },
+    {
+      "id": "ff-reopen-tab",
+      "appId": "firefox",
+      "title": "Восстановить случайно закрытую вкладку",
+      "description": "Открывает последнюю закрытую вкладку с сохранением всей истории переходов",
+      "keys": ["Ctrl", "Shift", "T"],
+      "category": "Вкладки",
+      "popularity": 99
+    },
+    {
+      "id": "ff-developer-tools",
+      "appId": "firefox",
+      "title": "Инструменты веб-разработчика Firefox",
+      "description": "Открывает отладчик CSS Grid, Flexbox и консоль сетевых запросов",
+      "keys": ["F12"],
+      "category": "Разработка",
+      "popularity": 92
+    },
+    {
+      "id": "ya-sidebar",
+      "appId": "yandex-browser",
+      "title": "Открыть боковую панель инструментов и сервисов",
+      "description": "Быстрый доступ к голосовому помощнику Алиса, закладкам и истории",
+      "keys": ["Ctrl", "Shift", "E"],
+      "category": "Интерфейс и сервисы",
+      "popularity": 94
+    },
+    {
+      "id": "ya-incognito",
+      "appId": "yandex-browser",
+      "title": "Открыть окно в режиме инкогнито",
+      "description": "Запуск приватного сеанса без сохранения поисковых запросов и истории",
+      "keys": ["Ctrl", "Shift", "N"],
+      "category": "Приватность",
+      "popularity": 95
+    },
+    {
+      "id": "ya-reopen-tab",
+      "appId": "yandex-browser",
+      "title": "Восстановление последней закрытой вкладки",
+      "description": "Мгновенно открывает вкладку, которую вы случайно закрыли",
+      "keys": ["Ctrl", "Shift", "T"],
+      "category": "Вкладки",
+      "popularity": 98
+    },
+    {
+      "id": "ya-tablo",
+      "appId": "yandex-browser",
+      "title": "Новая вкладка и Табло любимых сайтов",
+      "description": "Открывает умную строку поиска и плитки популярных сайтов",
+      "keys": ["Ctrl", "T"],
+      "category": "Вкладки",
+      "popularity": 97
+    },
+    {
+      "id": "op-snapshot",
+      "appId": "opera",
+      "title": "Встроенный снимок веб-страницы (Snapshot)",
+      "description": "Позволяет выделить область сайта, сделать снимок и добавить стрелки или текст",
+      "keys": ["Ctrl", "Shift", "5"],
+      "category": "Инструменты контента",
+      "popularity": 95
+    },
+    {
+      "id": "op-search-tabs",
+      "appId": "opera",
+      "title": "Поиск по открытым вкладкам",
+      "description": "Быстрый поиск нужной вкладки среди сотен открытых окон",
+      "keys": ["Ctrl", "Space"],
+      "category": "Вкладки",
+      "popularity": 93
+    },
+    {
+      "id": "op-settings",
+      "appId": "opera",
+      "title": "Быстрый переход к настройкам Opera",
+      "description": "Настройка VPN, блокировщика рекламы и боковой панели",
+      "keys": ["Alt", "P"],
+      "category": "Настройки",
+      "popularity": 91
+    },
+    {
+      "id": "tb-send-later",
+      "appId": "thunderbird",
+      "title": "Отправить письмо позже (в Исходящие)",
+      "description": "Сохраняет готовое сообщение в локальную очередь для отправки по расписанию",
+      "keys": ["Ctrl", "Shift", "Enter"],
+      "category": "Почта и отправка",
+      "popularity": 94
+    },
+    {
+      "id": "tb-archive-mail",
+      "appId": "thunderbird",
+      "title": "Архивировать выбранное письмо",
+      "description": "Переносит письмо в архивную папку по годам, очищая папку «Входящие»",
+      "keys": ["A"],
+      "category": "Организация почты",
+      "popularity": 95
+    },
+    {
+      "id": "tb-mark-spam",
+      "appId": "thunderbird",
+      "title": "Пометить письмо как спам (Junk)",
+      "description": "Обучает байесовский фильтр нежелательной почты и перемещает спам в корзину",
+      "keys": ["J"],
+      "category": "Организация почты",
+      "popularity": 91
+    },
+    {
+      "id": "zoom-toggle-audio",
+      "appId": "zoom",
+      "title": "Включить / отключить микрофон (Mute/Unmute)",
+      "description": "Мгновенное переключение микрофона во время конференции",
+      "keys": {
+        "windows": ["Alt", "A"],
+        "macos": ["Cmd", "Shift", "A"]
+      },
+      "category": "Аудио и видео",
+      "popularity": 99
+    },
+    {
+      "id": "zoom-toggle-video",
+      "appId": "zoom",
+      "title": "Включить / отключить веб-камеру",
+      "description": "Управление передачей видеосигнала",
+      "keys": {
+        "windows": ["Alt", "V"],
+        "macos": ["Cmd", "Shift", "V"]
+      },
+      "category": "Аудио и видео",
+      "popularity": 98
+    },
+    {
+      "id": "zoom-screen-share",
+      "appId": "zoom",
+      "title": "Начать / остановить показ экрана",
+      "description": "Запуск демонстрации рабочего стола или окна отдельного приложения",
+      "keys": {
+        "windows": ["Alt", "S"],
+        "macos": ["Cmd", "Shift", "S"]
+      },
+      "category": "Демонстрация",
+      "popularity": 97
+    },
+    {
+      "id": "zoom-raise-hand",
+      "appId": "zoom",
+      "title": "Поднять / опустить руку спикеру",
+      "description": "Сигнализирует организатору встречи о желании задать вопрос",
+      "keys": {
+        "windows": ["Alt", "Y"],
+        "macos": ["Opt", "Y"]
+      },
+      "category": "Участие во встрече",
+      "popularity": 96
+    },
+    {
+      "id": "disc-quick-switcher",
+      "appId": "discord",
+      "title": "Быстрый переход к серверу, каналу или ЛС (Quick Switcher)",
+      "description": "Мгновенное перемещение по серверам без ручного клика по иконкам",
+      "keys": {
+        "windows": ["Ctrl", "K"],
+        "macos": ["Cmd", "K"]
+      },
+      "category": "Навигация",
+      "popularity": 99
+    },
+    {
+      "id": "disc-toggle-mute",
+      "appId": "discord",
+      "title": "Заглушить свой микрофон (Mute)",
+      "description": "Глобальное отключение микрофона в голосовом канале",
+      "keys": {
+        "windows": ["Ctrl", "Shift", "M"],
+        "macos": ["Cmd", "Shift", "M"]
+      },
+      "category": "Голос и звук",
+      "popularity": 98
+    },
+    {
+      "id": "disc-toggle-deafen",
+      "appId": "discord",
+      "title": "Заглушить звук в наушниках (Deafen)",
+      "description": "Полностью отключает входящий звук конференции и свой микрофон",
+      "keys": {
+        "windows": ["Ctrl", "Shift", "D"],
+        "macos": ["Cmd", "Shift", "D"]
+      },
+      "category": "Голос и звук",
+      "popularity": 95
+    },
+    {
+      "id": "disc-mark-channel-read",
+      "appId": "discord",
+      "title": "Пометить текущий текстовый канал как прочитанный",
+      "description": "Сбрасывает счетчик непрочитанных сообщений в канале",
+      "keys": ["Esc"],
+      "category": "Сообщения",
+      "popularity": 92
+    },
+    {
+      "id": "slack-quick-switcher",
+      "appId": "slack",
+      "title": "Быстрый поиск каналов и диалогов (Quick Switcher)",
+      "description": "Позволяет за доли секунды переключиться в любой канал или ЛС",
+      "keys": {
+        "windows": ["Ctrl", "K"],
+        "macos": ["Cmd", "K"]
+      },
+      "category": "Навигация",
+      "popularity": 99
+    },
+    {
+      "id": "slack-all-unreads",
+      "appId": "slack",
+      "title": "Все непрочитанные сообщения (All Unreads)",
+      "description": "Единая лента всех сообщений из каналов, требующих вашего внимания",
+      "keys": {
+        "windows": ["Ctrl", "Shift", "A"],
+        "macos": ["Cmd", "Shift", "A"]
+      },
+      "category": "Чтение сообщений",
+      "popularity": 97
+    },
+    {
+      "id": "slack-threads",
+      "appId": "slack",
+      "title": "Лента тредов и ответов на ваши сообщения",
+      "description": "Открывает все активные цепочки обсуждений, в которых вы участвуете",
+      "keys": {
+        "windows": ["Ctrl", "Shift", "T"],
+        "macos": ["Cmd", "Shift", "T"]
+      },
+      "category": "Чтение сообщений",
+      "popularity": 96
+    },
+    {
+      "id": "slack-add-reaction",
+      "appId": "slack",
+      "title": "Добавить быструю эмодзи-реакцию к последнему сообщению",
+      "description": "Открывает палитру смайликов для одобрения или подтверждения без отправки текста",
+      "keys": {
+        "windows": ["Ctrl", "Shift", "\\"],
+        "macos": ["Cmd", "Shift", "\\"]
+      },
+      "category": "Общение",
+      "popularity": 93
+    }
+  ],
+  "tasks": [
+    {
+      "id": "chr-task-devtools-network",
+      "appId": "chrome",
+      "title": "Диагностика медленной загрузки сайта через вкладку Network в DevTools",
+      "summary": "Как найти «тяжелые» изображения, блокирующие JavaScript-файлы и медленные API-запросы.",
+      "category": "Веб-мастер и диагностика",
+      "difficulty": "Средняя",
+      "estimatedTime": "3 минуты",
+      "whenToUse": "Когда корпоративный портал или сайт компании долго загружается у клиентов.",
+      "expectedResult": "Выявлен конкретный ресурс или скрипт с наибольшим временем ответа (TTFB) или размером.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Откройте панель DevTools",
+          "description": "Нажмите F12 или Ctrl+Shift+I и перейдите на вкладку «Network» (Сеть)."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Включите режим отключения кэша",
+          "description": "Поставьте галочку «Disable cache» в верхней панели инструментов Network."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Перезагрузите страницу с очисткой",
+          "description": "Нажмите Ctrl+Shift+R для полной перезагрузки и отсортируйте колонку «Time» или «Size» по убыванию."
+        }
+      ]
+    },
+    {
+      "id": "zoom-task-audio-settings",
+      "appId": "zoom",
+      "title": "Настройка шумоподавления и проверка гарнитуры перед важным созвоном",
+      "summary": "Как убрать посторонний шум клавиатуры, кондиционера и эхо в микрофоне во время конференции.",
+      "category": "Качество связи",
+      "difficulty": "Начальная",
+      "estimatedTime": "2 минуты",
+      "whenToUse": "Перед проведением вебинара, собеседования или презентации клиентам из шумного офиса.",
+      "expectedResult": "Чистый голос без фоновых звуков офиса и стабильная передача звука.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Откройте настройки звука",
+          "description": "Нажмите на стрелку рядом со значком микрофона в Zoom -> выберите «Настройки звука»."
+        },
+        {
+          "stepNumber": 2,
+          "title": "Активируйте продвинутое шумоподавление",
+          "description": "В блоке «Подавление фонового шума» переключите режим с «Авто» на «Высокий»."
+        },
+        {
+          "stepNumber": 3,
+          "title": "Проверьте микрофон тестом",
+          "description": "Нажмите «Проверить микрофон», произнесите тестовую фразу и прослушайте воспроизведение."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Office Flow",
+  "description": "Единый интерактивный справочник и помощник по офисным, бухгалтерским, системным и рабочим программам: горячие клавиши, пошаговые инструкции и умный поиск.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

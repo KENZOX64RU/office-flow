@@ -1,0 +1,662 @@
+[
+  {
+    "id": "excel",
+    "name": "Microsoft Excel",
+    "vendor": "Microsoft",
+    "category": "office",
+    "shortcutsCount": 22,
+    "tasksCount": 9,
+    "officialDocsUrl": "https://support.microsoft.com/excel",
+    "status": "Завершена"
+  },
+  {
+    "id": "word",
+    "name": "Microsoft Word",
+    "vendor": "Microsoft",
+    "category": "office",
+    "shortcutsCount": 14,
+    "tasksCount": 3,
+    "officialDocsUrl": "https://support.microsoft.com/word",
+    "status": "Завершена"
+  },
+  {
+    "id": "powerpoint",
+    "name": "Microsoft PowerPoint",
+    "vendor": "Microsoft",
+    "category": "office",
+    "shortcutsCount": 13,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "outlook",
+    "name": "Microsoft Outlook",
+    "vendor": "Microsoft",
+    "category": "communication",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "onenote",
+    "name": "Microsoft OneNote",
+    "vendor": "Microsoft",
+    "category": "office",
+    "shortcutsCount": 12,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "access",
+    "name": "Microsoft Access",
+    "vendor": "Microsoft",
+    "category": "office",
+    "shortcutsCount": 12,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "teams",
+    "name": "Microsoft Teams",
+    "vendor": "Microsoft",
+    "category": "communication",
+    "shortcutsCount": 13,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "m365",
+    "name": "Microsoft 365",
+    "vendor": "Microsoft",
+    "category": "office",
+    "shortcutsCount": 8,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "libre-writer",
+    "name": "LibreOffice Writer",
+    "vendor": "The Document Foundation",
+    "category": "office",
+    "shortcutsCount": 10,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "libre-calc",
+    "name": "LibreOffice Calc",
+    "vendor": "The Document Foundation",
+    "category": "office",
+    "shortcutsCount": 9,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "libre-impress",
+    "name": "LibreOffice Impress",
+    "vendor": "The Document Foundation",
+    "category": "office",
+    "shortcutsCount": 14,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "onlyoffice",
+    "name": "ONLYOFFICE Docs",
+    "vendor": "Ascensio System SIA",
+    "category": "office",
+    "shortcutsCount": 8,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "gdocs",
+    "name": "Google Docs",
+    "vendor": "Google",
+    "category": "office",
+    "shortcutsCount": 8,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "gsheets",
+    "name": "Google Sheets",
+    "vendor": "Google",
+    "category": "analytics",
+    "shortcutsCount": 9,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "gslides",
+    "name": "Google Slides",
+    "vendor": "Google",
+    "category": "graphics",
+    "shortcutsCount": 11,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "gdrive",
+    "name": "Google Drive",
+    "vendor": "Google",
+    "category": "office",
+    "shortcutsCount": 9,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "1c-enterprise",
+    "name": "1С:Предприятие 8",
+    "vendor": "Фирма 1С",
+    "category": "accounting",
+    "shortcutsCount": 14,
+    "tasksCount": 2,
+    "officialDocsUrl": "https://its.1c.ru",
+    "status": "Завершена"
+  },
+  {
+    "id": "1c-buh",
+    "name": "1С:Бухгалтерия предприятия",
+    "vendor": "Фирма 1С",
+    "category": "accounting",
+    "shortcutsCount": 18,
+    "tasksCount": 4,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "1c-zup",
+    "name": "1С:Зарплата и управление персоналом (ЗУП)",
+    "vendor": "Фирма 1С",
+    "category": "accounting",
+    "shortcutsCount": 15,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "1c-ut",
+    "name": "1С:Управление торговлей (УТ)",
+    "vendor": "Фирма 1С",
+    "category": "accounting",
+    "shortcutsCount": 9,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "1c-doc",
+    "name": "1С:Документооборот",
+    "vendor": "Фирма 1С",
+    "category": "accounting",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "diadoc",
+    "name": "Контур.Диадок",
+    "vendor": "СКБ Контур",
+    "category": "accounting",
+    "shortcutsCount": 15,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "extern",
+    "name": "Контур.Экстерн",
+    "vendor": "СКБ Контур",
+    "category": "accounting",
+    "shortcutsCount": 13,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "sbis",
+    "name": "СБИС / Saby",
+    "vendor": "Компания «Тензор»",
+    "category": "accounting",
+    "shortcutsCount": 14,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "moysklad",
+    "name": "МойСклад",
+    "vendor": "МойСклад",
+    "category": "accounting",
+    "shortcutsCount": 11,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "bitrix24",
+    "name": "Битрикс24",
+    "vendor": "1С-Битрикс",
+    "category": "pm",
+    "shortcutsCount": 8,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "amocrm",
+    "name": "amoCRM",
+    "vendor": "amoCRM",
+    "category": "pm",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "chrome",
+    "name": "Google Chrome",
+    "vendor": "Google",
+    "category": "browsers",
+    "shortcutsCount": 12,
+    "tasksCount": 3,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "edge",
+    "name": "Microsoft Edge",
+    "vendor": "Microsoft",
+    "category": "browsers",
+    "shortcutsCount": 8,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "firefox",
+    "name": "Mozilla Firefox",
+    "vendor": "Mozilla",
+    "category": "browsers",
+    "shortcutsCount": 12,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "yandex-browser",
+    "name": "Яндекс Браузер",
+    "vendor": "Яндекс",
+    "category": "browsers",
+    "shortcutsCount": 11,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "opera",
+    "name": "Opera",
+    "vendor": "Opera Software",
+    "category": "browsers",
+    "shortcutsCount": 11,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram Desktop",
+    "vendor": "Telegram FZ-LLC",
+    "category": "communication",
+    "shortcutsCount": 12,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "thunderbird",
+    "name": "Mozilla Thunderbird",
+    "vendor": "Mozilla Foundation",
+    "category": "communication",
+    "shortcutsCount": 6,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "zoom",
+    "name": "Zoom Workplace",
+    "vendor": "Zoom Video Communications",
+    "category": "communication",
+    "shortcutsCount": 7,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "vendor": "Discord Inc.",
+    "category": "communication",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "vendor": "Salesforce",
+    "category": "communication",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "acrobat-reader",
+    "name": "Adobe Acrobat Reader",
+    "vendor": "Adobe",
+    "category": "pdf",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "acrobat-pro",
+    "name": "Adobe Acrobat Pro",
+    "vendor": "Adobe",
+    "category": "pdf",
+    "shortcutsCount": 7,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "pdf-xchange",
+    "name": "PDF-XChange Editor",
+    "vendor": "Tracker Software",
+    "category": "pdf",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "foxit",
+    "name": "Foxit PDF Editor",
+    "vendor": "Foxit Software",
+    "category": "pdf",
+    "shortcutsCount": 12,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "finereader",
+    "name": "ABBYY FineReader PDF",
+    "vendor": "ABBYY",
+    "category": "pdf",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "powerbi",
+    "name": "Microsoft Power BI",
+    "vendor": "Microsoft",
+    "category": "analytics",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "tableau",
+    "name": "Tableau",
+    "vendor": "Salesforce",
+    "category": "analytics",
+    "shortcutsCount": 12,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "powerquery",
+    "name": "Power Query",
+    "vendor": "Microsoft",
+    "category": "analytics",
+    "shortcutsCount": 12,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "powerpivot",
+    "name": "Microsoft Power Pivot",
+    "vendor": "Microsoft",
+    "category": "analytics",
+    "shortcutsCount": 12,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "vendor": "Notion Labs",
+    "category": "pm",
+    "shortcutsCount": 11,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "trello",
+    "name": "Trello",
+    "vendor": "Atlassian",
+    "category": "pm",
+    "shortcutsCount": 8,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "jira",
+    "name": "Jira Software",
+    "vendor": "Atlassian",
+    "category": "pm",
+    "shortcutsCount": 8,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "asana",
+    "name": "Asana",
+    "vendor": "Asana Inc.",
+    "category": "pm",
+    "shortcutsCount": 8,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "clickup",
+    "name": "ClickUp",
+    "vendor": "ClickUp",
+    "category": "pm",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "vendor": "Figma Inc.",
+    "category": "graphics",
+    "shortcutsCount": 9,
+    "tasksCount": 3,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "canva",
+    "name": "Canva",
+    "vendor": "Canva Pty Ltd",
+    "category": "graphics",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "photoshop",
+    "name": "Adobe Photoshop",
+    "vendor": "Adobe",
+    "category": "graphics",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "illustrator",
+    "name": "Adobe Illustrator",
+    "vendor": "Adobe",
+    "category": "graphics",
+    "shortcutsCount": 7,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "win11",
+    "name": "Windows 11",
+    "vendor": "Microsoft",
+    "category": "windows",
+    "shortcutsCount": 14,
+    "tasksCount": 3,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "win10",
+    "name": "Windows 10",
+    "vendor": "Microsoft",
+    "category": "windows",
+    "shortcutsCount": 31,
+    "tasksCount": 5,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "explorer",
+    "name": "Проводник Windows (File Explorer)",
+    "vendor": "Microsoft",
+    "category": "windows",
+    "shortcutsCount": 16,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "taskmgr",
+    "name": "Диспетчер задач (Task Manager)",
+    "vendor": "Microsoft",
+    "category": "windows",
+    "shortcutsCount": 7,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "powershell",
+    "name": "PowerShell",
+    "vendor": "Microsoft",
+    "category": "admin",
+    "shortcutsCount": 8,
+    "tasksCount": 3,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "cmd",
+    "name": "Командная строка CMD",
+    "vendor": "Microsoft",
+    "category": "admin",
+    "shortcutsCount": 13,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "winterminal",
+    "name": "Windows Terminal",
+    "vendor": "Microsoft",
+    "category": "admin",
+    "shortcutsCount": 15,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "putty",
+    "name": "PuTTY",
+    "vendor": "Simon Tatham",
+    "category": "admin",
+    "shortcutsCount": 15,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "winscp",
+    "name": "WinSCP",
+    "vendor": "Martin Prikryl",
+    "category": "admin",
+    "shortcutsCount": 17,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "rdp",
+    "name": "Remote Desktop (Подключение к удаленному столу)",
+    "vendor": "Microsoft",
+    "category": "admin",
+    "shortcutsCount": 13,
+    "tasksCount": 1,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  },
+  {
+    "id": "sysinternals",
+    "name": "Microsoft Sysinternals",
+    "vendor": "Microsoft",
+    "category": "admin",
+    "shortcutsCount": 15,
+    "tasksCount": 2,
+    "officialDocsUrl": "Официальная документация вендора",
+    "status": "Завершена"
+  }
+]
